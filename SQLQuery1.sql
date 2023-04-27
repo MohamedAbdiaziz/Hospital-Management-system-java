@@ -1,4 +1,5 @@
 -- hospital management System database table
+-- the syntax of this sql is MSSQL server
 -- database name 'hms'
 -- created at 2023-04-(23-24);
 CREATE TABLE Nurse (
